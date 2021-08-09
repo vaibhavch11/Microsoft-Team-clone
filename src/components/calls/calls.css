@@ -1,0 +1,34 @@
+.calls-container{
+   
+   width: 100%;
+   height: 100vh;
+
+}
+
+.calls-body{
+    display: flex;
+   width: 100%;
+   flex: 1;
+   height: 94%;
+    
+    
+}
+
+.calls-sidebar{
+    display: flex;
+    flex: 1;
+    /* border: 1px solid black; */
+}
+
+.calls-leftfold{
+    display: flex;
+    flex: 3;
+    /* border: 1px solid black; */
+}
+
+.calls-rightfold{
+    display: flex;
+    flex: 11;
+    /* border: 1px solid black; */
+}
+
